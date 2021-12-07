@@ -19,8 +19,3 @@ I wrote this program to experiment with using stacks to perform operations. In t
 
 ### Range Detector
 This program takes in a list of numbers and detects if any of them belong to a consecutive range. It returns this list of numbers with the consecutive numbers replaced by the range, so for example {5, 1, 2, 3} would return “5, 1-3”.
-
-## Java
-
-### Morse Code
-This program takes in a text file and processes each word into the corresponding morse code. It also raises a custom exception when an invalid character is mingled in with the text (not A-Z).
